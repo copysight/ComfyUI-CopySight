@@ -1,0 +1,22 @@
+# Modified by CopySight for corporate distribution and tested compatibility.
+[project]
+name = "copysight"
+description = "CopySight image IP similarity verification for ComfyUI"
+version = "0.1.1"
+license = {file = "LICENSE"}
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.32,<3",
+]
+
+[project.urls]
+Repository = "https://github.com/copysight/ComfyUI-CopySight"
+Documentation = "https://github.com/copysight/ComfyUI-CopySight#readme"
+"Bug Tracker" = "https://github.com/copysight/ComfyUI-CopySight/issues"
+
+[tool.comfy]
+# Proposed publisher; confirm ownership in Comfy Registry before publishing.
+PublisherId = "copysight"
+DisplayName = "CopySight"
+Icon = "https://raw.githubusercontent.com/copysight/ComfyUI-CopySight/main/web/assets/copysight-logo.png"
+requires-comfyui = ">=0.39.2"

@@ -1,0 +1,4 @@
+tests/
+.github/
+*.zip
+*.patch

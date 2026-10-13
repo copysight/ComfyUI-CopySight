@@ -1,0 +1,10 @@
+# Modified by CopySight to exclude local credentials from public distribution.
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+*.p12

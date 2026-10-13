@@ -1,0 +1,3 @@
+{
+  "CopySight Verify Image": "Check one image for IP similarity using CopySight; returns an annotated image and JSON report. Requires an enabled CopySight key."
+}
