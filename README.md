@@ -4,7 +4,7 @@ CopySight image IP similarity verification inside ComfyUI. The pack adds one API
 
 CopySight documentation: https://copysight.ai/docs
 
-Original node by [Filliptm / Machine Delusions](https://github.com/filliptm). CopySight maintains this distribution under the existing Apache-2.0 license. Packaging, documentation, and the example workflow were updated for public distribution; the verification implementation is unchanged from the original node.
+Original node by [Fixed Seed (Filliptm)](https://fixedseed.com). CopySight maintains this distribution under the existing Apache-2.0 license. Packaging, documentation, and the example workflow were updated for public distribution; the verification implementation is unchanged from the original node.
 
 ## Requirements
 
